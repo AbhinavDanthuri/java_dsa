@@ -1,0 +1,13 @@
+here two pointer is used to solve problems
+ like arrays or strings which are moving
+  towards or moving away from each
+  other
+
+
+  here it exists because instead of using nested
+   loops we can use this method to optimize
+   the time complexity
+
+
+
+   we should use them in sorted array,palindrome check,pair with sum,duplicate elements etc
