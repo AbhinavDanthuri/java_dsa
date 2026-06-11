@@ -1,0 +1,34 @@
+1)Strings are immutable
+
+TYPES OF STRING COMPARISIONS
+1)equals():compares content(case sensitive)
+            eg:str1.equals(str2)
+ 2)equalsIgnoreCase():compares content(case insensitive)
+             eg:str1.equalsIgnoreCase(str2)
+ 3)compareTo():
+ 4)contentEquals():
+
+ STRING METHODS:
+ 1)Length():returns length of string
+ 2)charAt(int index):returns  character at specific index
+ 3)substring(int start):returns substring from start to end
+ 4)substring(int start ,int end):
+ 5)indexOf(string str):returns first occcurence
+ 6)lastIndexOf(returns last occurence
+ 7)toUpperCase();
+ 8)toLowerCase():
+ 9)trim()
+ 10)replace(char old,char new)
+ 11)split():splits string into array
+ 12)replaceall():use full very use ful
+ string s="abc123def456;
+ s.replaceAll("[0-9]","*");
+
+ STRING CONCATINATION HAS THREE WATS
+ 1)use + operator
+ 2)use concat()
+ 3)stringBuider:
+ string builder sb=new StringBuilder();
+ sb.append("hello").append(" ").apped("world")'
+ string result=sb.toStrig();
+
