@@ -32,3 +32,9 @@ TYPES OF STRING COMPARISIONS
  sb.append("hello").append(" ").apped("world")'
  string result=sb.toStrig();
 
+ Character.isLowerCase(ch)
+ Character.isDigit(ch)
+ Character.isLetter(ch)
+ Character.toUpperCase(ch)
+ Character.toLowerCase(ch)
+
